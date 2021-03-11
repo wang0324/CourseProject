@@ -1,0 +1,37 @@
+01
+Acting
+02
+Baseball
+03
+Basketball
+04
+Bowling
+05
+Comics
+06
+Dancing
+07
+Football
+08
+Golfing
+09
+Hunting
+10
+Music
+11
+Skiing
+12
+Tennis
+13
+Ride motocycle
+14
+Reading
+15
+Running
+16
+Collecting Stamp
+17
+Horse riding
+18
+Fishing
+

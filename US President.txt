@@ -1,0 +1,201 @@
+Franklin Roosevelt
+FranklinRoosevelt
+01
+abc123!
+Hyde Park
+2
+Harry Truman
+John Kenedy
+3
+Baseball
+Hunting
+Dancing
+
+
+Harry Truman
+HarryTruman
+02
+abc456!
+Lamar
+3
+Franklin Roosevelt
+Dwight Eisenhower
+Lyndon Johnson
+3
+Basketball
+Stamp collecting
+Horse riding
+
+Dwight Eisenhower
+DwightEisenhower
+03
+Itsasecret!	
+Denison
+2
+Harry Truman
+John Kenedy
+
+John Kenedy
+JohnKenedy
+04
+acb111!
+Brookline
+2
+Franklin Roosevelt
+Lyndon Johnson
+4
+Dancing
+Golfing
+Bowling
+Tennis
+
+Lyndon Johnson
+LyndonJohnson
+05
+meNo1!
+Stonewall
+2
+John Kenedy
+Harry Truman
+3
+Fishing
+Baseball
+Hunting
+
+Richard Nixon
+RicharNixon
+06
+RickIsCool!
+Yorba Linda
+3
+Barack Obama
+Gerald Ford
+Jimmy Carter
+3
+Music
+Football
+Bowling
+
+Gerald Ford
+GeraldFord
+07
+WhoamI?
+Omaha
+2
+Richard Nixon
+Ronald Reagan
+4
+Stamp collecting
+Skiing
+Tennis
+Golfing
+
+Jimmy Carter
+JimCarter
+08
+IamHandsomeJim!
+Plains
+3
+Richard Nixon
+George Bush
+Ronald Reagan
+4
+Running
+Basketball
+Hunting
+Ride motocycle
+
+Ronald Reagan
+RonReagan
+09
+IamnotJimmy
+Tampico
+4
+Gerald Ford
+George Bush
+Barack Obama
+Richard Nixon
+2
+Acting
+Football
+
+George Bush
+GeorgeBush
+10
+Nopassword
+Milton, MA
+4
+Jimmy Carter
+Gerald Ford
+William Clinton
+Geroge Bush
+1
+Baseball
+
+William Clinton
+BillClinton
+11
+Cannottell
+Hope
+3
+Barack Obama
+Joseph Biden
+George Bush
+2
+Hunting
+Golfing
+
+George Bush
+GeorgeBush
+12
+PleaseDontAsk
+New Haven
+2
+George Bush
+Barack Obama
+3
+running
+Football
+Music
+
+Barack Obama
+BarackObama
+13
+IdonthavePassword
+Honolulu
+4
+George Bush
+William Clinton
+Gerald Ford
+Richard Nixon
+Joseph Biden Jr
+2
+Comics
+Reading
+Dancing
+
+Donald Trump
+DonaldTrump
+14
+abc123!
+New York
+1
+Joseph R. Biden Jr
+2
+Golfing
+Reading
+
+Joseph Biden
+JoeBiden
+15
+byeTrump!
+Scranton
+3
+Donald Trump
+Barack Obama
+William J. Clinton
+3
+Running
+Reading
+Skiing
+
